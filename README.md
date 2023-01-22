@@ -6,6 +6,8 @@ Animations
 
 Slidable items
 
+Clean code 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
